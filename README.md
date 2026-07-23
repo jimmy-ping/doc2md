@@ -36,8 +36,6 @@ python3 doc2md.py convert slides.pptx --pandoc
 python3 doc2md.py gui
 ```
 
-或双击桌面的 `doc2md.command` 快捷方式。
-
 ## 支持格式
 
 | 格式 | 扩展名 | 解析引擎 | 图片提取 | 说明 |
