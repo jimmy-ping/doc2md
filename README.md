@@ -1,6 +1,6 @@
 # doc2md — 文档转 Markdown 工具
 
-将办公文档转换为 Markdown 格式，自动提取图片。支持 6 种格式，CLI + GUI 双入口。
+将办公文档转换为 Markdown，自动提取图片。CLI + GUI 双入口。
 
 ## 快速开始
 
